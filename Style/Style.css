@@ -806,6 +806,23 @@ margin-right: 0 !important;
     text-align: center;
     
     }
+.sec5Container {
+    width: 90%;
+    left: 0;
+    top: 0;
+    padding: 20px;
+  }
+
+  .sec5Content h2 {
+    font-size: 28px;
+    line-height: 120%;
+  }
+
+  .sec5Content p {
+    font-size: 16px;
+    line-height: 130%;
+  }
+
 
     .sec6Container{
         display: flex;
