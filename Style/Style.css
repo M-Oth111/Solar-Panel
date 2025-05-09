@@ -668,7 +668,11 @@ margin: auto;
     .Sec1 .sec1Content .secondBtn{
         margin-top: 20px;
     }
-
+ .homeBtns{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
     .sec2container{
         width: 80%;
 margin-left: auto;
